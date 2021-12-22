@@ -1,4 +1,4 @@
-# LearnTS  
+## LearnTS  
 JavaScipt의 상위버전이라고 할 수 있는 TypeScript에 대해서 알아보는 과정  
 
 ## Tutorial  
