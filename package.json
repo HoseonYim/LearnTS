@@ -1,0 +1,23 @@
+{
+  "name": "learnts",
+  "version": "1.0.0",
+  "description": "JavaScipt의 상위버전이라고 할 수 있는 TypeScript에 대해서 알아보는 과정",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dacoev/LearnTS.git"
+  },
+  "author": "dacoev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dacoev/LearnTS/issues"
+  },
+  "homepage": "https://github.com/dacoev/LearnTS#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
