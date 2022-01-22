@@ -17,8 +17,8 @@
 enum Role {
   ADMIN = 10,
   READ_ONLY,
-  AUTHOR = "AUTHOR"
-};
+  AUTHOR = "AUTHOR",
+}
 
 const person = {
   name: "Fuck",
@@ -45,6 +45,6 @@ if (person.role === Role.AUTHOR) {
 }
 
 let dontUseThisPlease: any = 5;
-dontUseThisPlease = 'plzz';
+dontUseThisPlease = "plzz";
 
 //let betterThanAny: any[] = 5;//error beacuse it isnt array
