@@ -37,3 +37,6 @@ for (var _i = 0, _a = person.hobbies; _i < _a.length; _i++) {
 if (person.role === Role.AUTHOR) {
     console.log("is author");
 }
+var dontUseThisPlease = 5;
+dontUseThisPlease = 'plzz';
+//let betterThanAny: any[] = 5;//error beacuse it isnt array
